@@ -1,0 +1,63 @@
+2024-03-13T23:20:41.193-0500 [INFO]  Terraform version: 1.7.3
+2024-03-13T23:20:41.193-0500 [DEBUG] using github.com/hashicorp/go-tfe v1.41.0
+2024-03-13T23:20:41.193-0500 [DEBUG] using github.com/hashicorp/hcl/v2 v2.19.1
+2024-03-13T23:20:41.193-0500 [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2024-03-13T23:20:41.193-0500 [DEBUG] using github.com/zclconf/go-cty v1.14.1
+2024-03-13T23:20:41.195-0500 [INFO]  Go runtime version: go1.21.5
+2024-03-13T23:20:41.195-0500 [INFO]  CLI args: []string{"D:\\terraform\\terraform.exe", "apply"}
+2024-03-13T23:20:41.196-0500 [DEBUG] Attempting to open CLI config file: C:\Users\bvdin\AppData\Roaming\terraform.rc
+2024-03-13T23:20:41.196-0500 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2024-03-13T23:20:41.198-0500 [INFO]  Loading CLI configuration from C:\Users\bvdin\AppData\Roaming\terraform.d\credentials.tfrc.json
+2024-03-13T23:20:41.198-0500 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2024-03-13T23:20:41.198-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\bvdin\AppData\Roaming\terraform.d\plugins
+2024-03-13T23:20:41.199-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\bvdin\AppData\Roaming\HashiCorp\Terraform\plugins
+2024-03-13T23:20:41.199-0500 [INFO]  CLI command args: []string{"apply"}
+2024-03-13T23:20:41.200-0500 [DEBUG] Service discovery for app.terraform.io at https://app.terraform.io/.well-known/terraform.json
+2024-03-13T23:20:41.823-0500 [DEBUG] Service discovery for app.terraform.io aliased as localterraform.com
+2024-03-13T23:20:41.855-0500 [DEBUG] checking for provisioner in "."
+2024-03-13T23:20:41.855-0500 [DEBUG] checking for provisioner in "D:\\terraform"
+2024-03-13T23:20:41.977-0500 [INFO]  cloud: starting Apply operation
+2024-03-13T23:20:53.885-0500 [DEBUG] performing request: method=GET url=https://app.terraform.io/api/v2/plans/plan-DEpnBkbbhiLXD5Vn/json-output-redacted
+2024-03-13T23:20:54.890-0500 [DEBUG] command: asking for input: "\nDo you want to perform these actions in workspace \"Workspace_CLI\"?"
+2024-03-13T23:24:11.907-0500 [INFO]  Terraform version: 1.7.3
+2024-03-13T23:24:11.907-0500 [DEBUG] using github.com/hashicorp/go-tfe v1.41.0
+2024-03-13T23:24:11.907-0500 [DEBUG] using github.com/hashicorp/hcl/v2 v2.19.1
+2024-03-13T23:24:11.907-0500 [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2024-03-13T23:24:11.907-0500 [DEBUG] using github.com/zclconf/go-cty v1.14.1
+2024-03-13T23:24:11.907-0500 [INFO]  Go runtime version: go1.21.5
+2024-03-13T23:24:11.907-0500 [INFO]  CLI args: []string{"D:\\terraform\\terraform.exe", "apply"}
+2024-03-13T23:24:11.908-0500 [DEBUG] Attempting to open CLI config file: C:\Users\bvdin\AppData\Roaming\terraform.rc
+2024-03-13T23:24:11.909-0500 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2024-03-13T23:24:11.909-0500 [INFO]  Loading CLI configuration from C:\Users\bvdin\AppData\Roaming\terraform.d\credentials.tfrc.json
+2024-03-13T23:24:11.909-0500 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2024-03-13T23:24:11.909-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\bvdin\AppData\Roaming\terraform.d\plugins
+2024-03-13T23:24:11.909-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\bvdin\AppData\Roaming\HashiCorp\Terraform\plugins
+2024-03-13T23:24:11.909-0500 [INFO]  CLI command args: []string{"apply"}
+2024-03-13T23:24:11.911-0500 [DEBUG] Service discovery for app.terraform.io at https://app.terraform.io/.well-known/terraform.json
+2024-03-13T23:24:12.543-0500 [DEBUG] Service discovery for app.terraform.io aliased as localterraform.com
+2024-03-13T23:24:12.581-0500 [DEBUG] checking for provisioner in "."
+2024-03-13T23:24:12.581-0500 [DEBUG] checking for provisioner in "D:\\terraform"
+2024-03-13T23:24:12.735-0500 [INFO]  cloud: starting Apply operation
+2024-03-13T23:24:24.380-0500 [DEBUG] performing request: method=GET url=https://app.terraform.io/api/v2/plans/plan-PovamUzQQU5y78fP/json-output-redacted
+2024-03-13T23:24:25.323-0500 [DEBUG] command: asking for input: "\nDo you want to perform these actions in workspace \"Workspace_CLI\"?"
+2024-03-13T23:26:33.441-0500 [INFO]  Terraform version: 1.7.3
+2024-03-13T23:26:33.441-0500 [DEBUG] using github.com/hashicorp/go-tfe v1.41.0
+2024-03-13T23:26:33.441-0500 [DEBUG] using github.com/hashicorp/hcl/v2 v2.19.1
+2024-03-13T23:26:33.441-0500 [DEBUG] using github.com/hashicorp/terraform-svchost v0.1.1
+2024-03-13T23:26:33.441-0500 [DEBUG] using github.com/zclconf/go-cty v1.14.1
+2024-03-13T23:26:33.441-0500 [INFO]  Go runtime version: go1.21.5
+2024-03-13T23:26:33.441-0500 [INFO]  CLI args: []string{"D:\\terraform\\terraform.exe", "apply"}
+2024-03-13T23:26:33.443-0500 [DEBUG] Attempting to open CLI config file: C:\Users\bvdin\AppData\Roaming\terraform.rc
+2024-03-13T23:26:33.443-0500 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2024-03-13T23:26:33.443-0500 [INFO]  Loading CLI configuration from C:\Users\bvdin\AppData\Roaming\terraform.d\credentials.tfrc.json
+2024-03-13T23:26:33.443-0500 [DEBUG] ignoring non-existing provider search directory terraform.d/plugins
+2024-03-13T23:26:33.443-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\bvdin\AppData\Roaming\terraform.d\plugins
+2024-03-13T23:26:33.443-0500 [DEBUG] ignoring non-existing provider search directory C:\Users\bvdin\AppData\Roaming\HashiCorp\Terraform\plugins
+2024-03-13T23:26:33.443-0500 [INFO]  CLI command args: []string{"apply"}
+2024-03-13T23:26:33.444-0500 [DEBUG] Service discovery for app.terraform.io at https://app.terraform.io/.well-known/terraform.json
+2024-03-13T23:26:34.098-0500 [DEBUG] Service discovery for app.terraform.io aliased as localterraform.com
+2024-03-13T23:26:34.122-0500 [DEBUG] checking for provisioner in "."
+2024-03-13T23:26:34.122-0500 [DEBUG] checking for provisioner in "D:\\terraform"
+2024-03-13T23:26:34.249-0500 [INFO]  cloud: starting Apply operation
+2024-03-13T23:26:45.503-0500 [DEBUG] performing request: method=GET url=https://app.terraform.io/api/v2/plans/plan-6jpsnNo7oPDWuw7p/json-output-redacted
+2024-03-13T23:26:46.492-0500 [DEBUG] command: asking for input: "\nDo you want to perform these actions in workspace \"Workspace_CLI\"?"
